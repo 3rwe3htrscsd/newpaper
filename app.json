@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/3rwe3htrscsd/paper",
-  "repository": "https://github.com/3rwe3htrscsd/paper",
+  "website": "https://github.com/3rwe3htrscsd/newpaper",
+  "repository": "https://github.com/3rwe3htrscsd/newpaper",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
